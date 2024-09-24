@@ -3,3 +3,11 @@
 p {
   font-family: "Nunito Sans", serif;
 }
+
+Body {
+    background-color: azure;
+    fount-size: 10px;
+    text-align: center;
+    justify-content: center;
+    height: auto;
+}
